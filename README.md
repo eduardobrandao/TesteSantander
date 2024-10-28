@@ -23,7 +23,7 @@
 ## Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua maquina as seguintes ferramentas:
-[Git](https://git-scm.com), ([Java]https://www.java.com/)).
+[Git](https://git-scm.com), [Java](https://www.java.com/)).
 Além disso é bom ter um editor para trabalhar com codigo como [Intellij](https://www.jetbrains.com/pt-br/))
 
 #### Rodando o Projeto
